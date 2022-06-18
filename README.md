@@ -7,9 +7,4 @@ I collected the information i needed from both reliable and non-reliable website
 
 The dataset contains information about Nigerian billionaires in 2022, including their:
 
-Names
-Net Worth (In Billions)
-Age
-State of Origin
-Source of Wealth
-Industry
+Names, Net Worth (In Billions), Age, State of Origin, Source of Wealth and Industry
